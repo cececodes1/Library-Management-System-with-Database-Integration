@@ -49,7 +49,7 @@ Commands
 The following commands are available:
 
 
-* `python setup.py`: Sets up the database
+* `python database_setup.py`: Sets up the database
 * `python borrow_book.py <user_id> <book_id>`: Borrows a book
 * `python return_book.py <book_id>`: Returns a book
 * `python search_books.py <title> <author> <genre>`: Searches for books
