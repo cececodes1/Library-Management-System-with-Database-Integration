@@ -48,7 +48,7 @@ Commands
 
 The following commands are available:
 
-* `python main.py`: Runs the system
+
 * `python setup.py`: Sets up the database
 * `python borrow_book.py <user_id> <book_id>`: Borrows a book
 * `python return_book.py <book_id>`: Returns a book
